@@ -4,3 +4,6 @@ My project/.vsconfig
 /My project/UserSettings
 /My project/Logs
 *.sln
+/My project/obj
+/My project/.vs
+*.csproj
