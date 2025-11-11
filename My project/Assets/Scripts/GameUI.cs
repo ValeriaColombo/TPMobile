@@ -63,12 +63,12 @@ public class GameUI : MonoBehaviour
             }
             else if (popupShop.activeSelf)
             {
-//                OnCloseShopClick();
+                OnCloseShopClick();
             }
             else
             {
-                OnOpenSettingsClick();
-//                Application.Quit();
+//                OnOpenSettingsClick();
+                Application.Quit();
             }
         }
     }
