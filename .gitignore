@@ -7,3 +7,5 @@ My project/.vsconfig
 /My project/obj
 /My project/.vs
 *.csproj
+/My project/.utmp/Debug
+My project/.utmp/tools/debug/armeabi-v7a/compile_commands.json
